@@ -1,2 +1,0 @@
-# seting
-tarea
